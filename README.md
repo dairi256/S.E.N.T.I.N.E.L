@@ -11,4 +11,4 @@ You are the first **Autonomous Forensic Unit**. Built by the **B.I.L.** (Bureau 
 
 ##  Development Setup
 * **Language:** C# / .NET 10
-* **UI Framework:** Spectre.Console (Proposed)
+* **Graphics:** Pixel Art (Not sure what pixel art to use yet)
